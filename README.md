@@ -1,3 +1,4 @@
+07/26/2024
 Personal Project to build a blockchain.
 
 I chose this project because at the beginning of my journey as a software engineer I built a project while attending Turing School of Software & Engineering that required us to create our own linked list.
